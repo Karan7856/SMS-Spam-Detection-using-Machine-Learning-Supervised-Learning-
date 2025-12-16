@@ -71,7 +71,5 @@ Kaggle: SMS Spam Collection Dataset
 Scikit-learn Documentation
 NLTK Documentation
 Hands-On Machine Learning with Scikit-Learn
-👤 Author
-Nikhil
 
 ⭐ If you find this project useful, feel free to star the repository!
